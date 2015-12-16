@@ -1,11 +1,9 @@
-# They rejected us
+# Bad words board
 
-The codebase for [rejected.us](http://rejected.us)
+# LICENSE
+[MIT](https://github.com/duyetdev/badword-board/blob/master/LICENSE)
 
-## Screenshot
+# Contributing
 
-![Rejected.us Screenshot](/public/img/screenshot.png)
+Base on rejected.us, thanks to [@jkup](https://twitter.com/jkup)!
 
-## Contributing
-
-Thanks for contributing! It's really casual, just send me a PR or open an issue or tweet me [@jkup](https://twitter.com/jkup)!
