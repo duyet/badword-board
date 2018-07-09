@@ -4,7 +4,9 @@
   "description": "Everyone’s been rejected - these are our stories",
   "main": "server.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -24,9 +26,11 @@
   "homepage": "https://github.com/jkup/rejected.us#readme",
   "dependencies": {
     "express": "^4.13.3",
-    "express-react-views": "^0.9.0",
+    "express-react-views": "^0.10.0",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
-    "shuffle-array": "^0.1.1"
-  }
+    "shuffle-array": "^0.1.1",
+    "snyk": "^1.88.2"
+  },
+  "snyk": true
 }
