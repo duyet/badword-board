@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/jkup/rejected.us#readme",
   "dependencies": {
-    "express": "^4.13.3",
+    "express": "^5.0.0",
     "express-react-views": "^0.11.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
